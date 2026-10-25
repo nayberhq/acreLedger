@@ -26,6 +26,12 @@ jobs:
           mkdir -p public/data
           cp data/finance-pilots/*.json public/data/
           python tests/validate_site.py
+      - name: Install browser smoke-test dependencies
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Verify all city reports complete in browser
+        run: python tests/smoke_report.py
       - name: Publish source-backed city records for Pages
         run: |
           mkdir -p public/data
