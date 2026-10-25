@@ -1,5 +1,10 @@
 name: Municipal ingestion pilot
 on:
+  push:
+    paths:
+      - 'ingestion/**'
+      - 'tests/**'
+      - '.github/workflows/ingest.yml'
   workflow_dispatch:
   schedule:
     - cron: '23 8 * * 1'
