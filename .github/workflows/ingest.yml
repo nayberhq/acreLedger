@@ -1,0 +1,28 @@
+name: Municipal ingestion pilot
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 8 * * 1'
+permissions:
+  contents: read
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Ingest three pilot municipalities
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
+        run: python -m ingestion.ingest --all-pilots
+      - name: Publish coverage reports as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: municipal-coverage
+          path: data/coverage/*.json
+          if-no-files-found: warn
