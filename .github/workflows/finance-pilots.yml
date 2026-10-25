@@ -30,7 +30,8 @@ jobs:
           git add public/data
           if ! git diff --cached --quiet; then
             git commit -m "Update original Census finance records"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
       - uses: actions/upload-artifact@v4
         if: always()
