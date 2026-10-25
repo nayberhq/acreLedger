@@ -1,0 +1,973 @@
+{
+  "Rochester, IN": {
+    "place_geoid": "1865214",
+    "match": {
+      "status": "matched",
+      "candidates": [
+        {
+          "government_id": "182049138035",
+          "name": "ROCHESTER CITY",
+          "county": "Fulton"
+        }
+      ]
+    },
+    "financial_items": [
+      {
+        "code": "19U",
+        "amount_thousands_usd": 1989,
+        "year": 2022,
+        "imputation_flag": "I",
+        "source_line": 307351
+      },
+      {
+        "code": "49U",
+        "amount_thousands_usd": 1989,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307352
+      },
+      {
+        "code": "A61",
+        "amount_thousands_usd": 36,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307353
+      },
+      {
+        "code": "A80",
+        "amount_thousands_usd": 4023,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307354
+      },
+      {
+        "code": "A89",
+        "amount_thousands_usd": 2,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307355
+      },
+      {
+        "code": "A91",
+        "amount_thousands_usd": 2482,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307356
+      },
+      {
+        "code": "B89",
+        "amount_thousands_usd": 17,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307357
+      },
+      {
+        "code": "C89",
+        "amount_thousands_usd": 3815,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307358
+      },
+      {
+        "code": "D89",
+        "amount_thousands_usd": 238,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307359
+      },
+      {
+        "code": "E23",
+        "amount_thousands_usd": 140,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307360
+      },
+      {
+        "code": "E24",
+        "amount_thousands_usd": 991,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307361
+      },
+      {
+        "code": "E29",
+        "amount_thousands_usd": 408,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307362
+      },
+      {
+        "code": "E31",
+        "amount_thousands_usd": 126,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307363
+      },
+      {
+        "code": "E44",
+        "amount_thousands_usd": 1386,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307364
+      },
+      {
+        "code": "E50",
+        "amount_thousands_usd": 256,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307365
+      },
+      {
+        "code": "E61",
+        "amount_thousands_usd": 960,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307366
+      },
+      {
+        "code": "E62",
+        "amount_thousands_usd": 1584,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307367
+      },
+      {
+        "code": "E80",
+        "amount_thousands_usd": 2020,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307368
+      },
+      {
+        "code": "E89",
+        "amount_thousands_usd": 1066,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307369
+      },
+      {
+        "code": "E91",
+        "amount_thousands_usd": 1545,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307370
+      },
+      {
+        "code": "F24",
+        "amount_thousands_usd": 9,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307371
+      },
+      {
+        "code": "F29",
+        "amount_thousands_usd": 2,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307372
+      },
+      {
+        "code": "F31",
+        "amount_thousands_usd": 5,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307373
+      },
+      {
+        "code": "F62",
+        "amount_thousands_usd": 8,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307374
+      },
+      {
+        "code": "I89",
+        "amount_thousands_usd": 80,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307375
+      },
+      {
+        "code": "T01",
+        "amount_thousands_usd": 2368,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307376
+      },
+      {
+        "code": "T15",
+        "amount_thousands_usd": 13,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307377
+      },
+      {
+        "code": "T29",
+        "amount_thousands_usd": 3,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307378
+      },
+      {
+        "code": "U11",
+        "amount_thousands_usd": 22,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307379
+      },
+      {
+        "code": "U20",
+        "amount_thousands_usd": 21,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307380
+      },
+      {
+        "code": "U30",
+        "amount_thousands_usd": 1,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307381
+      },
+      {
+        "code": "U40",
+        "amount_thousands_usd": 44,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307382
+      },
+      {
+        "code": "U50",
+        "amount_thousands_usd": 5,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307383
+      },
+      {
+        "code": "U99",
+        "amount_thousands_usd": 6,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 307384
+      }
+    ],
+    "financial_status": "raw_items_found",
+    "source_url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+    "source_member": "2022_Individual_Unit_files/2022FinEstDAT_07152026modp.txt"
+  },
+  "Steubenville, OH": {
+    "place_geoid": "3974608",
+    "match": {
+      "status": "matched",
+      "candidates": [
+        {
+          "government_id": "392081132467",
+          "name": "STEUBENVILLE CITY",
+          "county": "Jefferson"
+        }
+      ]
+    },
+    "financial_items": [
+      {
+        "code": "19U",
+        "amount_thousands_usd": 36487,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872906
+      },
+      {
+        "code": "49U",
+        "amount_thousands_usd": 36487,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872907
+      },
+      {
+        "code": "A61",
+        "amount_thousands_usd": 26,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872908
+      },
+      {
+        "code": "A80",
+        "amount_thousands_usd": 5554,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872909
+      },
+      {
+        "code": "A81",
+        "amount_thousands_usd": 1717,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872910
+      },
+      {
+        "code": "A91",
+        "amount_thousands_usd": 7606,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872911
+      },
+      {
+        "code": "B89",
+        "amount_thousands_usd": 9648,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872912
+      },
+      {
+        "code": "C89",
+        "amount_thousands_usd": 180,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872913
+      },
+      {
+        "code": "D89",
+        "amount_thousands_usd": 61,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872914
+      },
+      {
+        "code": "E05",
+        "amount_thousands_usd": 162,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872915
+      },
+      {
+        "code": "E23",
+        "amount_thousands_usd": 3211,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872916
+      },
+      {
+        "code": "E24",
+        "amount_thousands_usd": 3577,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872917
+      },
+      {
+        "code": "E25",
+        "amount_thousands_usd": 751,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872918
+      },
+      {
+        "code": "E29",
+        "amount_thousands_usd": 1441,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872919
+      },
+      {
+        "code": "E31",
+        "amount_thousands_usd": 754,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872920
+      },
+      {
+        "code": "E32",
+        "amount_thousands_usd": 65,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872921
+      },
+      {
+        "code": "E44",
+        "amount_thousands_usd": 2303,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872922
+      },
+      {
+        "code": "E50",
+        "amount_thousands_usd": 121,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872923
+      },
+      {
+        "code": "E61",
+        "amount_thousands_usd": 796,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872924
+      },
+      {
+        "code": "E62",
+        "amount_thousands_usd": 4254,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872925
+      },
+      {
+        "code": "E79",
+        "amount_thousands_usd": 17,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872926
+      },
+      {
+        "code": "E80",
+        "amount_thousands_usd": 4576,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872927
+      },
+      {
+        "code": "E81",
+        "amount_thousands_usd": 1887,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872928
+      },
+      {
+        "code": "E89",
+        "amount_thousands_usd": 408,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872929
+      },
+      {
+        "code": "E91",
+        "amount_thousands_usd": 6496,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872930
+      },
+      {
+        "code": "F29",
+        "amount_thousands_usd": 308,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872931
+      },
+      {
+        "code": "F44",
+        "amount_thousands_usd": 970,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872932
+      },
+      {
+        "code": "F61",
+        "amount_thousands_usd": 489,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872933
+      },
+      {
+        "code": "F80",
+        "amount_thousands_usd": 1523,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872934
+      },
+      {
+        "code": "F91",
+        "amount_thousands_usd": 1090,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872935
+      },
+      {
+        "code": "I89",
+        "amount_thousands_usd": 860,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872936
+      },
+      {
+        "code": "I91",
+        "amount_thousands_usd": 544,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872937
+      },
+      {
+        "code": "T01",
+        "amount_thousands_usd": 990,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872938
+      },
+      {
+        "code": "T16",
+        "amount_thousands_usd": 1,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872939
+      },
+      {
+        "code": "T20",
+        "amount_thousands_usd": 15,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872940
+      },
+      {
+        "code": "T21",
+        "amount_thousands_usd": 2,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872941
+      },
+      {
+        "code": "T24",
+        "amount_thousands_usd": 406,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872942
+      },
+      {
+        "code": "T27",
+        "amount_thousands_usd": 36,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872943
+      },
+      {
+        "code": "T28",
+        "amount_thousands_usd": 251,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872944
+      },
+      {
+        "code": "T29",
+        "amount_thousands_usd": 343,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872945
+      },
+      {
+        "code": "T40",
+        "amount_thousands_usd": 12067,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872946
+      },
+      {
+        "code": "U01",
+        "amount_thousands_usd": 101,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872947
+      },
+      {
+        "code": "U20",
+        "amount_thousands_usd": 2,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872948
+      },
+      {
+        "code": "U40",
+        "amount_thousands_usd": 76,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872949
+      },
+      {
+        "code": "U41",
+        "amount_thousands_usd": 130,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872950
+      },
+      {
+        "code": "U50",
+        "amount_thousands_usd": 3,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872951
+      },
+      {
+        "code": "U99",
+        "amount_thousands_usd": 49,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 872952
+      }
+    ],
+    "financial_status": "raw_items_found",
+    "source_url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+    "source_member": "2022_Individual_Unit_files/2022FinEstDAT_07152026modp.txt"
+  },
+  "Hillsboro, OR": {
+    "place_geoid": "4134100",
+    "match": {
+      "status": "matched",
+      "candidates": [
+        {
+          "government_id": "412067211253",
+          "name": "HILLSBORO CITY",
+          "county": "Washington"
+        }
+      ]
+    },
+    "financial_items": [
+      {
+        "code": "19U",
+        "amount_thousands_usd": 185927,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957547
+      },
+      {
+        "code": "29U",
+        "amount_thousands_usd": 35000,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957548
+      },
+      {
+        "code": "39U",
+        "amount_thousands_usd": 8716,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957549
+      },
+      {
+        "code": "49U",
+        "amount_thousands_usd": 212211,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957550
+      },
+      {
+        "code": "A03",
+        "amount_thousands_usd": 165,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957551
+      },
+      {
+        "code": "A44",
+        "amount_thousands_usd": 20249,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957552
+      },
+      {
+        "code": "A61",
+        "amount_thousands_usd": 3255,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957553
+      },
+      {
+        "code": "A80",
+        "amount_thousands_usd": 49585,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957554
+      },
+      {
+        "code": "A89",
+        "amount_thousands_usd": 3616,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957555
+      },
+      {
+        "code": "A91",
+        "amount_thousands_usd": 40245,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957556
+      },
+      {
+        "code": "B89",
+        "amount_thousands_usd": 19189,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957557
+      },
+      {
+        "code": "C89",
+        "amount_thousands_usd": 34363,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957558
+      },
+      {
+        "code": "D89",
+        "amount_thousands_usd": 4405,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957559
+      },
+      {
+        "code": "E03",
+        "amount_thousands_usd": 1794,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957560
+      },
+      {
+        "code": "E23",
+        "amount_thousands_usd": 4449,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957561
+      },
+      {
+        "code": "E24",
+        "amount_thousands_usd": 28968,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957562
+      },
+      {
+        "code": "E25",
+        "amount_thousands_usd": 497,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957563
+      },
+      {
+        "code": "E29",
+        "amount_thousands_usd": 5969,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957564
+      },
+      {
+        "code": "E31",
+        "amount_thousands_usd": 30,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957565
+      },
+      {
+        "code": "E44",
+        "amount_thousands_usd": 12763,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957566
+      },
+      {
+        "code": "E50",
+        "amount_thousands_usd": 25994,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957567
+      },
+      {
+        "code": "E52",
+        "amount_thousands_usd": 11154,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957568
+      },
+      {
+        "code": "E61",
+        "amount_thousands_usd": 28670,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957569
+      },
+      {
+        "code": "E62",
+        "amount_thousands_usd": 39961,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957570
+      },
+      {
+        "code": "E66",
+        "amount_thousands_usd": 7434,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957571
+      },
+      {
+        "code": "E80",
+        "amount_thousands_usd": 12659,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957572
+      },
+      {
+        "code": "E89",
+        "amount_thousands_usd": 8535,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957573
+      },
+      {
+        "code": "E91",
+        "amount_thousands_usd": 23703,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957574
+      },
+      {
+        "code": "F03",
+        "amount_thousands_usd": 4680,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957575
+      },
+      {
+        "code": "F44",
+        "amount_thousands_usd": 7769,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957576
+      },
+      {
+        "code": "F50",
+        "amount_thousands_usd": 56199,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957577
+      },
+      {
+        "code": "F61",
+        "amount_thousands_usd": 1567,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957578
+      },
+      {
+        "code": "F62",
+        "amount_thousands_usd": 132,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957579
+      },
+      {
+        "code": "F66",
+        "amount_thousands_usd": 25,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957580
+      },
+      {
+        "code": "F80",
+        "amount_thousands_usd": 3504,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957581
+      },
+      {
+        "code": "F89",
+        "amount_thousands_usd": 8940,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957582
+      },
+      {
+        "code": "F91",
+        "amount_thousands_usd": 45363,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957583
+      },
+      {
+        "code": "I89",
+        "amount_thousands_usd": 2486,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957584
+      },
+      {
+        "code": "I91",
+        "amount_thousands_usd": 1755,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957585
+      },
+      {
+        "code": "M89",
+        "amount_thousands_usd": 36232,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957586
+      },
+      {
+        "code": "T01",
+        "amount_thousands_usd": 89807,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957587
+      },
+      {
+        "code": "T15",
+        "amount_thousands_usd": 19557,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957588
+      },
+      {
+        "code": "T19",
+        "amount_thousands_usd": 2000,
+        "year": 2022,
+        "imputation_flag": "S",
+        "source_line": 957589
+      },
+      {
+        "code": "T28",
+        "amount_thousands_usd": 402,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957590
+      },
+      {
+        "code": "T29",
+        "amount_thousands_usd": 45256,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957591
+      },
+      {
+        "code": "U11",
+        "amount_thousands_usd": 243,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957592
+      },
+      {
+        "code": "U20",
+        "amount_thousands_usd": 59,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957593
+      },
+      {
+        "code": "U30",
+        "amount_thousands_usd": 524,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957594
+      },
+      {
+        "code": "U40",
+        "amount_thousands_usd": 301,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957595
+      },
+      {
+        "code": "U99",
+        "amount_thousands_usd": 21793,
+        "year": 2022,
+        "imputation_flag": "R",
+        "source_line": 957596
+      }
+    ],
+    "financial_status": "raw_items_found",
+    "source_url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+    "source_member": "2022_Individual_Unit_files/2022FinEstDAT_07152026modp.txt"
+  }
+}
