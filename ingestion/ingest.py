@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 GAZETTEER = "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gazetteer_files.zip"
-GAZETTEER_PLACES = "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gazetteer_places_national.zip"
+GAZETTEER_PLACES = "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_place_national.zip"
 ACS = "https://api.census.gov/data/2024/acs/acs5"
 FINANCE = "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip"
 PILOTS = [("Rochester", "IN"), ("Steubenville", "OH"), ("Hillsboro", "OR")]
