@@ -1,0 +1,26 @@
+name: Inspect Census technical documentation
+on:
+  push:
+    paths:
+      - 'ingestion/inspect_documentation.py'
+      - '.github/workflows/inspect-documentation.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Confirm PDF text extraction utility
+        run: pdftotext -v
+      - name: Extract official record layouts
+        run: python ingestion/inspect_documentation.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: census-finance-technical-evidence
+          path: data/source-inspection/*-technical-evidence.txt
