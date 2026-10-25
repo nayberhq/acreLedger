@@ -21,7 +21,7 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Extract original Census financial records
         run: python -m ingestion.finance_pilots
-      - name: Publish source-backed city records for Pages
+      - name: Validate extraction and report before publishing\n        run: |\n          mkdir -p public/data\n          cp data/finance-pilots/*.json public/data/\n          python tests/validate_site.py\n      - name: Publish source-backed city records for Pages
         run: |
           mkdir -p public/data
           cp data/finance-pilots/*.json public/data/
