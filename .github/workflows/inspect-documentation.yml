@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Confirm PDF text extraction utility
-        run: pdftotext -v
+      - name: Install PDF text extraction utility
+        run: sudo apt-get update -qq && sudo apt-get install -y poppler-utils
       - name: Extract official record layouts
         run: python ingestion/inspect_documentation.py
       - uses: actions/upload-artifact@v4
