@@ -9,7 +9,8 @@ def validate_page(path):
     assert html.lower().count("</html>")==1, "Duplicate HTML closing tag"
     assert html.rstrip().lower().endswith("</html>"), "Text leaked after closing HTML"
     assert "financial_items" in scripts[0], "Financial report renderer missing"
-    assert "loadIndex()" in scripts[0], "Municipality index load not invoked"\n    assert "loadFinance()" in scripts[0], "Financial record loader missing"
+    assert "loadIndex()" in scripts[0], "Municipality index load not invoked"
+    assert "loadFinance()" in scripts[0], "Financial record loader missing"
     check=subprocess.run(["node","--check","-"],input=scripts[0],text=True,capture_output=True)
     assert check.returncode==0, "Invalid JavaScript: "+check.stderr
 
